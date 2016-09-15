@@ -14,11 +14,11 @@ The metrics used in the benchmarks are in the .csv file. The columns represent t
 ## Results
 The results of the execution of the method (AMOSA) are summarized in the .pdf files. The values of each performance parameters of each execution are in the benchmarks' folders.
 
-susan@1             |  susan@2             |  susan@4
+stringsearch@1             |  stringsearch@2             |  stringsearch@4
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![alt text](https://github.com/plug-and-share/dse-benchmarks/blob/master/images/stringsearch%401.png "stringsearch@1")  |  ![alt text](https://github.com/plug-and-share/dse-benchmarks/blob/master/images/stringsearch%402.png "stringsearch@2") | ![alt text](https://github.com/plug-and-share/dse-benchmarks/blob/master/images/stringsearch%404.png "stringsearch@4") 
 
-stringsearch@1             |  stringsearch@2             |  stringsearch@4
+susan@1             |  susan@2             |  susan@4
 :-------------------------:|:-------------------------:|:-------------------------:|
 ![alt text](https://github.com/plug-and-share/dse-benchmarks/blob/master/images/susan%401.png "susan@1")  |  ![alt text](https://github.com/plug-and-share/dse-benchmarks/blob/master/images/susan%402.png "susan@2") | ![alt text](https://github.com/plug-and-share/dse-benchmarks/blob/master/images/susan%404.png "susan@4")
 
